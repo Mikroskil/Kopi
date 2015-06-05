@@ -1,0 +1,8 @@
+Tanggal	      Sprint	Anggota				Kegiatan
+01-Jun-15	1	Suandi,agustinus,dan aulia	Membuat akun Github
+01-Jun-15	1	Suandi,agustinus,adi dan aulia	Menentukan topik dan sumber referensi masing-masing
+01-Jun-15	1	adi				Membuat project Trello
+03-Jun-15	1	adi				mengirim commit pertama yaitu file readme.md (file kosong)
+03-Jun-15	1	aulia				mengirim file makasaar (testing) ke Github
+03-Jun-15	1	agustinus			mengiri file jogja (testing) ke Github
+03-Jun-15	1	suandi				Mempersiapkan dokumen untuk bahan.
