@@ -1,0 +1,9 @@
+Tanggal		Sprint	Anggota		Kegiatan
+04-Jun-15	1	aulia		pengumupulan pengumpulan perkembangan kota dari tahun ketahun
+04-Jun-15	1	agustinus	proses mencari gambar-gambar lambang kota yogyakarta dan arti nama kota tersebut
+					-sejarah perkembangan kota dari tahun ke tahun
+					-Modif desaign Halaman
+04-Jun-15	1	Adi		-belajar tentang bespoke dan cara kerja jade
+					-commit untuk section (slide pendiri dan tanggal berdiri kota)
+05-Jun-15	1	suandi		-commit untuk bahan presentasi
+					-commit pengiriman laporan pekerjaan
