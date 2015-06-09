@@ -1,4 +1,14 @@
+#SCRUM MASTER sprint 1 Suandi Tarihoran 3-5 juni 2015
+
 Tanggal		Sprint	Anggota		Kegiatan
+01-Jun-15	1	seluruh anggota	Membuat akun Github
+01-Jun-15	1	Seluruh anggota	Menentukan topik dan sumber referensi masing-masing
+01-Jun-15	1	adi		Membuat project Trello
+03-Jun-15	1	adi		mengirim commit pertama yaitu file readme.md (file kosong)
+03-Jun-15	1	aulia		mengirim file makasaar (testing) ke Github
+03-Jun-15	1	agustinus	mengirim file jogja (testing) ke Github
+03-Jun-15	1	suandi		Mempersiapkan dokumen untuk bahan.
+
 04-Jun-15	1	aulia		pengumupulan pengumpulan perkembangan kota dari tahun ketahun
 04-Jun-15	1	agustinus	proses mencari gambar-gambar lambang kota yogyakarta dan arti nama kota tersebut
 					-sejarah perkembangan kota dari tahun ke tahun
@@ -7,3 +17,5 @@ Tanggal		Sprint	Anggota		Kegiatan
 					-commit untuk section (slide pendiri dan tanggal berdiri kota)
 05-Jun-15	1	suandi		-commit untuk bahan presentasi
 					-commit pengiriman laporan pekerjaan
+05-Jun-15	1	Adi		-commit point-point asal nama dan perkembangan kota
+
