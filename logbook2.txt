@@ -21,3 +21,9 @@ Tanggal		Sprint	Anggota		Kegiatan
 
 06-jun-15	1	agustinus	-commit poin-poin kependudukan (bahasa, agama, perkembangan) Kota yogyakarta
 
+
+#scrum master sprint 2 Adi Primanda Ginting, 6-9 Juni 2015
+Tanggal		Sprint 	Anggota		Kegiatan
+8-9-Juni-2015   2	Aulia		revisi: menambah bahasa yg digunakan, objek wisata, dan kuliner.
+9-Juni-2015	2	Suandi		mengedit file yang mau di presentasikan, berupa pariwisa dan kependudukan.
+
