@@ -26,4 +26,4 @@ Tanggal		Sprint	Anggota		Kegiatan
 Tanggal		Sprint 	Anggota		Kegiatan
 8-9-Juni-2015   2	Aulia		revisi: menambah bahasa yg digunakan, objek wisata, dan kuliner.
 9-Juni-2015	2	Suandi		mengedit file yang mau di presentasikan, berupa pariwisa dan kependudukan.
-
+9-juni-2015	2	agustinus	mencari informasi tentang mata pencarian masyrakat yogyakarta
