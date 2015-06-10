@@ -19,3 +19,5 @@ Tanggal		Sprint	Anggota		Kegiatan
 					-commit pengiriman laporan pekerjaan
 05-Jun-15	1	Adi		-commit point-point asal nama dan perkembangan kota
 
+06-jun-15	1	agustinus	-commit poin-poin kependudukan (bahasa, agama, perkembangan) Kota yogyakarta
+
