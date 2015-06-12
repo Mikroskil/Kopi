@@ -1,0 +1,65 @@
+#Pendirian kota jayapura
+section
+        h2 Kota Jaya Pura didirikan pada tahun 7 Maret 1910 oleh Kapten Infanteri F.J.P Sachses
+        h3 Powered by <a href="https://github.com/markdalgleish/bespoke-keys">bespoke-keys</a>
+
+      section
+      h2 Nama Jayapura
+      h3 Dari 1910 - 1962 pernah disebut sebagai Hollandia
+      h3 Pernah juga sebentar disebut sebagai Sukarnaputra dan kota baru 
+       h3 Jayapura berasal dari bahasa Sankrit
+	h3 Jaya artinya kemenangan
+	h3 pura artinya kota
+	h3 Jayapura sama maknanya dengan Jaipur di Rajastan, India.
+
+	section
+		h2 Tokoh-tokoh
+		h3 1. Belum ditemukan
+		h3 belum ditemukan
+      section
+        h2 Lambang kota Jayapura belum ditemukan
+        h3 Lambang kota Jayapura belum ditemukan
+
+      section
+        h2 Perkembangan Kota Jayapura
+        h3.bullet 
+        ul
+          li Pernah disinggahi orang berbangsa Spanyol, Ynico Ortis De Fretes tahun 1954
+          li Disinggahi oleh Alvaro Memdana Ne Neyra (1957)
+          li Disinggahi oleh Antonio Ma (1591 - 1593)
+	  
+
+	  li Didirikan oleh F. J. P. Sachses dari Kerajaan Belanda pada tahun 1910	    li Diduduki Jepang pada tahun 1942
+	  li Sekutu mengusir Jepang dimulai sejak pendaratan Amfibi dekat Hollandia (21 Maret 1944)
+	  li Sempat menjadi Markas Jenderal Douglas MacArthur sampai penalukan Filipina (Maret 1945)
+	  li Nama kota sempat disebut Kota Baru dan Sukarnapura (1964)
+	  li Disebut Jayapura pada tahun 1968.
+
+
+#Pariwisata kota jayapura
+1. Objek pariwisata kota jayapura
+  a. pantai Base G
+  gambar: pantai base g oleh Stanley Lam, CC by 2.0, sumber: https://www.flickr.com/photos/stenlylam/6193611272/sizes/o/
+  "terletak di sebelah barat Kota Jayapura, Papua. ... berlokasi sekitar 10 km dari kota Jayapura ... bisa melihat ke arah Samudera Pasifik" -- http://www.utiket.com/id/obyek-wisata/jayapura/98-pantai_base_g.html
+b. Beberapa makanan yang bisa dinikmati di wisata kuliner di jayapura
+  1. papeda, gambar: papeda, all right reserved by jejak bocah hilang from https://jejakbocahilang.files.wordpress.com/2012/02/papeda.jpg
+  
+2. carabak all right reserved by Jejak bocah hilang from https://jejakbocahilang.files.wordpress.com/2012/02/carabak.jpg
+
+3. kelapa muda teluk youtefa, all right reserved by jejak bocah hilang from https://jejakbocahilang.files.wordpress.com/2012/02/kelapa-muda-teluk-youtefa.jpg
+
+
+  
+c. Festival yang dilaksanakan di tahunan di kota Jayapura (dan kabupaten Jayapura) adalah Festival Danau Sentani. Dilaksanakan dengan sejak 2007.
+
+ Logo FDS, sumber:(c) all right reserved by http://sentanilakefestival.com/logo/
+
+Foto danau sentani: "Sentani Lake" by Kiko Turteliny - Flickr: Sentani Lake. Licensed under CC BY 2.0 via Wikimedia Commons - https://commons.wikimedia.org/wiki/File:Sentani_Lake.jpg#/media/File:Sentani_Lake.jpg
+
+d. Moda Transportasi
+  - Untuk mengakses Jayapura melalui udara, bisa melalui bandar udara Sentani di Kabupaten Jayapura.
+sumber gambar: "Sentani airport2" by Netaholic13 - Own work. Licensed under CC BY 3.0 via Wikimedia Commons - https://commons.wikimedia.org/wiki/File:Sentani_airport2.jpg#/media/File:Sentani_airport2.jpg
+
+  - Terdapat bus jurusan Jayapura ke Vanimo - Papua Nugini. 
+
+c. 
