@@ -14,8 +14,14 @@ section
 
 	section
 		h2 Tokoh-tokoh
-		h3 1. Belum ditemukan
-		h3 belum ditemukan
+		h3 1. Titus Bonai (pesepak bola, 26 tahun)
+      foto Titus Bonai sumber:    http://img.antaranews.com/new/2011/11/ori/20111122TITUSBONAI3.jpg (copyright ANTARA/Yudhi Mahatma)
+		h3 Oktavianus Maniani (pesepak bola, 24 tahun)
+      foto Oktavianus Maniani: "Okto" by Karya sendiri. Licensed under CC BY-SA 3.0 via Wikipedia - http://id.wikipedia.org/wiki/Berkas:Okto.jpg#/media/File:Okto.jpg (dinggah oleh Ciko On Wikipedia)
+  -- Lala Suwages (penyanyi R&B dan Jazz Indonesia: pernah meraih penghargaan Mahor of Almaty Prixe Winner voice of Asia dari Festival International di Kazakhstan (Wikipedia, www.id.wikipedia.org/wiki/Lala_Suwages), 34 tahun) 
+  foto: http://www.thejakartapost.com/files/images2/sp-l04-b_6.jpg, copyright JP/Triwik Kurniasari
+  -- dan lain-lain bisa dilihat dari: http://id.wikipedia.org/wiki/Kategori:Tokoh_dari_Jayapura
+
       section
         h2 Lambang kota Jayapura belum ditemukan
         h3 Lambang kota Jayapura belum ditemukan
