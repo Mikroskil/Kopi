@@ -23,8 +23,8 @@ section
   -- dan lain-lain bisa dilihat dari: http://id.wikipedia.org/wiki/Kategori:Tokoh_dari_Jayapura
 
       section
-        h2 Lambang kota Jayapura belum ditemukan
-        h3 Lambang kota Jayapura belum ditemukan
+        h2 Lambang kota Jayapura
+        
 
       section
         h2 Perkembangan Kota Jayapura
@@ -41,8 +41,17 @@ section
 	  li Nama kota sempat disebut Kota Baru dan Sukarnapura (1964)
 	  li Disebut Jayapura pada tahun 1968.
 
+#Kependudukan Jayapura
+1. Jumlah penduduk jayapura: 272.544 orang
+2. Agama penduduk kota Jayapura: 146.843 orang (42,76%) Kristen, beragama Islam (33,54 %), Katolik 23,54%, dan sisanya beragama Hindu dan Buddha. dari buku Papua dalam Angka, halaman 51 (http://jayapurakota.bps.go.id/jayapurakota_backend/flipping_publikasi/KOTA-JAYAPURA-DALAM-ANGKA-2014-/indexFlip.php)
+3. Suku asli dan Bahasa daerah asli di Jayapura: Kayu Batu/ Kayu Pulau, Tobati/ Enggros, Nafri, Skouw (https://www.papua.go.id/view-detail-page-8/suku-bangsa-%28etnis%29-dan-bahasa-daerah.html)
+4. Selain suku asli, banyak juga suku pendatang di Papua.
 
-#Pariwisata kota jayapura
+5. Bahasa yang digunakan oleh masyarakat antara lain bahasa Indonesia, bahasa asli daerah, dan bahasa-bahasa suku pendatang.
+
+6. Mata pencaharian masyarakat: 
+7. pertambahan penduduk tahun 2013 terhadap tahun 2012 adalah 1.58 % (Papua dalam angka)
+
 1. Objek pariwisata kota jayapura
   a. pantai Base G
   gambar: pantai base g oleh Stanley Lam, CC by 2.0, sumber: https://www.flickr.com/photos/stenlylam/6193611272/sizes/o/
@@ -68,4 +77,3 @@ sumber gambar: "Sentani airport2" by Netaholic13 - Own work. Licensed under CC B
 
   - Terdapat bus jurusan Jayapura ke Vanimo - Papua Nugini. 
 
-c. 
