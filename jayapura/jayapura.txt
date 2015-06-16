@@ -14,11 +14,17 @@ section
 
 	section
 		h2 Tokoh-tokoh
-		h3 1. Belum ditemukan
-		h3 belum ditemukan
+		h3 1. Titus Bonai (pesepak bola, 26 tahun)
+      foto Titus Bonai sumber:    http://img.antaranews.com/new/2011/11/ori/20111122TITUSBONAI3.jpg (copyright ANTARA/Yudhi Mahatma)
+		h3 Oktavianus Maniani (pesepak bola, 24 tahun)
+      foto Oktavianus Maniani: "Okto" by Karya sendiri. Licensed under CC BY-SA 3.0 via Wikipedia - http://id.wikipedia.org/wiki/Berkas:Okto.jpg#/media/File:Okto.jpg (dinggah oleh Ciko On Wikipedia)
+  -- Lala Suwages (penyanyi R&B dan Jazz Indonesia: pernah meraih penghargaan Mahor of Almaty Prixe Winner voice of Asia dari Festival International di Kazakhstan (Wikipedia, www.id.wikipedia.org/wiki/Lala_Suwages), 34 tahun) 
+  foto: http://www.thejakartapost.com/files/images2/sp-l04-b_6.jpg, copyright JP/Triwik Kurniasari
+  -- dan lain-lain bisa dilihat dari: http://id.wikipedia.org/wiki/Kategori:Tokoh_dari_Jayapura
+
       section
-        h2 Lambang kota Jayapura belum ditemukan
-        h3 Lambang kota Jayapura belum ditemukan
+        h2 Lambang kota Jayapura
+        
 
       section
         h2 Perkembangan Kota Jayapura
@@ -35,5 +41,39 @@ section
 	  li Nama kota sempat disebut Kota Baru dan Sukarnapura (1964)
 	  li Disebut Jayapura pada tahun 1968.
 
+#Kependudukan Jayapura
+1. Jumlah penduduk jayapura: 272.544 orang
+2. Agama penduduk kota Jayapura: 146.843 orang (42,76%) Kristen, beragama Islam (33,54 %), Katolik 23,54%, dan sisanya beragama Hindu dan Buddha. dari buku Papua dalam Angka, halaman 51 (http://jayapurakota.bps.go.id/jayapurakota_backend/flipping_publikasi/KOTA-JAYAPURA-DALAM-ANGKA-2014-/indexFlip.php)
+3. Suku asli dan Bahasa daerah asli di Jayapura: Kayu Batu/ Kayu Pulau, Tobati/ Enggros, Nafri, Skouw (https://www.papua.go.id/view-detail-page-8/suku-bangsa-%28etnis%29-dan-bahasa-daerah.html)
+4. Selain suku asli, banyak juga suku pendatang di Papua.
 
+5. Bahasa yang digunakan oleh masyarakat antara lain bahasa Indonesia, bahasa asli daerah, dan bahasa-bahasa suku pendatang.
+
+6. Mata pencaharian masyarakat: 
+7. pertambahan penduduk tahun 2013 terhadap tahun 2012 adalah 1.58 % (Papua dalam angka)
+
+1. Objek pariwisata kota jayapura
+  a. pantai Base G
+  gambar: pantai base g oleh Stanley Lam, CC by 2.0, sumber: https://www.flickr.com/photos/stenlylam/6193611272/sizes/o/
+  "terletak di sebelah barat Kota Jayapura, Papua. ... berlokasi sekitar 10 km dari kota Jayapura ... bisa melihat ke arah Samudera Pasifik" -- http://www.utiket.com/id/obyek-wisata/jayapura/98-pantai_base_g.html
+b. Beberapa makanan yang bisa dinikmati di wisata kuliner di jayapura
+  1. papeda, gambar: papeda, all right reserved by jejak bocah hilang from https://jejakbocahilang.files.wordpress.com/2012/02/papeda.jpg
+  
+2. carabak all right reserved by Jejak bocah hilang from https://jejakbocahilang.files.wordpress.com/2012/02/carabak.jpg
+
+3. kelapa muda teluk youtefa, all right reserved by jejak bocah hilang from https://jejakbocahilang.files.wordpress.com/2012/02/kelapa-muda-teluk-youtefa.jpg
+
+
+  
+c. Festival yang dilaksanakan di tahunan di kota Jayapura (dan kabupaten Jayapura) adalah Festival Danau Sentani. Dilaksanakan dengan sejak 2007.
+
+ Logo FDS, sumber:(c) all right reserved by http://sentanilakefestival.com/logo/
+
+Foto danau sentani: "Sentani Lake" by Kiko Turteliny - Flickr: Sentani Lake. Licensed under CC BY 2.0 via Wikimedia Commons - https://commons.wikimedia.org/wiki/File:Sentani_Lake.jpg#/media/File:Sentani_Lake.jpg
+
+d. Moda Transportasi
+  - Untuk mengakses Jayapura melalui udara, bisa melalui bandar udara Sentani di Kabupaten Jayapura.
+sumber gambar: "Sentani airport2" by Netaholic13 - Own work. Licensed under CC BY 3.0 via Wikimedia Commons - https://commons.wikimedia.org/wiki/File:Sentani_airport2.jpg#/media/File:Sentani_airport2.jpg
+
+  - Terdapat bus jurusan Jayapura ke Vanimo - Papua Nugini. 
 
